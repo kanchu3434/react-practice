@@ -1,13 +1,13 @@
- import Mango from "./mango.js"
- 
+ import {Banana ,Greps} from "./Fruits.js"
+ import Mango from "./mango.js" 
 function App(){
     return (
         <>
-           <Mango/>
+           <Greps/>
            
            <Mango/>
            
-           <Mango/>
+           <Banana/>
            
         </>
     )

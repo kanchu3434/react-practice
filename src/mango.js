@@ -3,7 +3,7 @@ function Mango(){
     return(
       <div className="mango-container">
         <h1>
-        Mango 💛
+        Mango 🥭
       </h1>
       </div>
         
